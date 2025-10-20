@@ -9,3 +9,4 @@ scikit-learn
 supabase
 joblib
 scipy
+torch
